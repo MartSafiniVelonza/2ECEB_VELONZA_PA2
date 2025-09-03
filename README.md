@@ -18,7 +18,7 @@
 5. Output the squared numbers.
 6. Get only the elements from 'A' that are divisible by 3 by using '%'.
 7. Output the elements divisible by 3.
-8. Save the result to a file named div_by_3.npy
-9. Load the div_by_3.npy into the variable 'loaded'
-10. Output the loaded array of elements divisible by 3
+8. Save the result to a file named div_by_3.npy.
+9. Load the div_by_3.npy into the variable 'loaded'.
+10. Output the loaded array of elements divisible by 3.
 
